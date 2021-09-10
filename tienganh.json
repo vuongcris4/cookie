@@ -1,0 +1,21 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Vật lí",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "hocmai.vn",
+			"exclude": "",
+			"group": "Học mãi",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": " show-2-times=aaa; MoodleSession=2ev60pk5fhp4nsakkj1ccgh1c5; MoodleSessionTest=gom4Oho5fY; time_join_home_new=1631278310807; G_ENABLED_IDPS=google; homeFullname=Tr%E1%BA%A7n+V%C6%B0%C6%A1ng; userchat=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD%253B%25DA%25C1%2560%2528%25AE%25C8%25C1%2598%250D%2589%25DBQ%2584%25ED%253Eb%2587%2516%25FC%25F9z%25AF%25BB%2595%25C2; MOODLEID_=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD; __hmrcid=5505242"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
