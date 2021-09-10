@@ -17,7 +17,7 @@
 		},
 		{
 			"enable": true,
-			"name": "Vật lí _ Chu Văn Biên",
+			"name": "Vật lí Biên",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
 			"pattern": "https://chuvanbien.vn/",
