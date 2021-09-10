@@ -14,6 +14,20 @@
 				"name": "cookie",
 				"value": " show-2-times=aaa; MoodleSession=2ev60pk5fhp4nsakkj1ccgh1c5; MoodleSessionTest=gom4Oho5fY; time_join_home_new=1631278310807; G_ENABLED_IDPS=google; homeFullname=Tr%E1%BA%A7n+V%C6%B0%C6%A1ng; userchat=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD%253B%25DA%25C1%2560%2528%25AE%25C8%25C1%2598%250D%2589%25DBQ%2584%25ED%253Eb%2587%2516%25FC%25F9z%25AF%25BB%2595%25C2; MOODLEID_=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD; __hmrcid=5505242"
 			}
+		},
+		{
+			"enable": true,
+			"name": "Vật lí _ Chu Văn Biên",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "https://chuvanbien.vn/",
+			"exclude": "",
+			"group": "Học mãi",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "_csrf=7f19c9a33c50ec762d0bcb32d6ba2f60a813ba7aa25cb21f5a69a586bfcca86ca%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%220f77_uJxCTsgASzx_FkRh_QmKWjs2fCX%22%3B%7D; PHPSESSID=m71sf5vm4ifiin6tfbi47130b1; _user_auth_key=50124e4008a7326fdc1c770a9e68c51f43e51d7dc4953aed52ea8fc87f6362d2a%3A2%3A%7Bi%3A0%3Bs%3A14%3A%22_user_auth_key%22%3Bi%3A1%3Bs%3A20%3A%22k-bMotvhVjge3vS4wOB5%22%3B%7D; _identity=dd9569a3f6bfb8612e668e8da9d8be852373c2c203f1065526e6ee5338029ed8a%3A2%3A%7Bi%3A0%3Bs%3A9%3A%22_identity%22%3Bi%3A1%3Bs%3A50%3A%22%5B66875%2C%22990146b090cc97ed2ab710f97ef7f467%22%2C2592000%5D%22%3B%7D"
+			}
 		}
 	],
 	"receiveHeader": [],
