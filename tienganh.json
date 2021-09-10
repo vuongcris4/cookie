@@ -1,0 +1,35 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Hocmai",
+			"ruleType": "modifySendHeader",
+			"matchType": "domain",
+			"pattern": "hocmai.vn",
+			"exclude": "",
+			"group": "Học Mãi",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "G_AUTHUSER_H=0; _hjid=fb2dc107-d130-4a66-8788-494d1cb90e5d; G_ENABLED_IDPS=google; __fss=2e2be2da02fa1c1c7f34ff00253130f5; __fsu=1248a672448bbaaea04546603d41c865; __hmrcid=56689893; rating-modal-1184-5533544=1; time_join_home_new=1631264897994; homeFullname=Th%C6%B0%C6%A1ng+Mai; MoodleSession=a5qmaijqs1qin0g6vg95hf2na2; MoodleSessionTest=Rl4c2fy8Yk; userchat=%25EE%25CD%2517D%25BC%257C%25B9%251A%25E8R%25EE%2528%25E4%2503%258Dp%25C0%25F3f%252B%25AB%25D4%25D4%25C0%251B%2589%25D8%250C%25D8%25BCgJ%258F%251A%25F4%25E4%257E%25F4%25B7%2594%25C8%258E%25EB%2560%2560%252F%25E2%25C8%25A7%25A7%25BF%25EB%25BD%2591%2500; MOODLEID_=%25EE%25CD%2517D%25BC%257C%25B9%251A%25E8R%25EE%2528%25E4%2503%258Dp%25C0%25F3f%252B%25AB%25D4%25D4%25C0%251B%2589%25D8"
+			}
+		},
+		{
+			"enable": true,
+			"name": "Tiếng Anh 123",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "https://www.tienganh123.com/",
+			"exclude": "",
+			"group": "Học Mãi",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "php7_ta_123_session_id=79rvlfvpn7qlejcps71kshltn2;;ta123_user_shared=EurbIFJfUXxLRdiQUcL9RQlP%2Fj19c%2B%2B%2Fnq5AlwUMlosKi0GkkyKgQv58SgrzREGebnCWZ5yo452rCnib2dG%2FrUxOXNBxzendwipkESBInGWZuujI4XHvbMaAJRhlj%2BZrnZS6cCNrzDnnHEzK02iQz8%2FmoXOnezpZJGOX1C9aAusdAtLSWjm9UcfSDecABya6AGZGwOApo6vKP%2FiKremovednF4yEsnKgAMqtJrFlkrRXdAzdZg%2BH%2FTitlSpyef9c7%2B4T4rZTOFSsgvA928IUfNSuBQAAAAAA;;ta123_member=3w9ABxnLcmc%3D;;HIM_on_off=0; HIM_method=0; HIM_ckspell=1; HIM_daucu=1; hocphatamgvmy-2=false"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
