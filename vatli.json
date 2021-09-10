@@ -6,7 +6,7 @@
 			"name": "Vật lí",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
-			"pattern": "hocmai.vn",
+			"pattern": "https://hocmai.vn/",
 			"exclude": "",
 			"group": "Học mãi",
 			"isFunction": false,
