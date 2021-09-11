@@ -1,0 +1,35 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Toán Facebook",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "https://www.facebook.com/",
+			"exclude": "",
+			"group": "Toán",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "sb=s_47YUR_VxZhh09E8TWe8T3f; wd=1366x657; datr=s_47YVUuc5fAMe5-8LZIwc9K; c_user=100028139360380; xs=38%3ADcMscWMYcSV-Ow%3A2%3A1631321832%3A-1%3A6903; fr=1CHSDLXFKjXbBZl9j.AWVc1yAlbG3nOYa2sxQsP3CtV2g.BhO_6z.72.AAA.0.0.BhO_7o.AWW-cMhs9LI; spin=r.1004380533_b.trunk_t.1631321835_s.1_v.2_"
+			}
+		},
+		{
+			"enable": true,
+			"name": "Thầy Chí",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "https://thaychi.vn/",
+			"exclude": "",
+			"group": "Toán",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "ASP.NET_SessionId=bapxy45gndul4vx1f3vwma41; TimevMemberAccount=637669428954884426; vMemberAccount=aa6a3938d8323fcfccc060f3f2e2b7b6d6949e8e6462523e31s8f1q8d1k3g3m8h1p4da; TimevMemberPassword=637669428954884426; vMemberPassword=aa6a3938d8323fcfccc060f3f2e2b7b6d6949e8e6462523e3gsbfgqbd:kbg9mgh9p6d4i6d1b7f1off5yfi1x2r1mbe7bbvdp7ldw:f1l:vfpgxfe7b4s7n8b2w8s9m4g9j2pfv2r2t8k2ta; TimevMemberName=637669428954884426; vMemberName=aa6a3938d8323fcfccc060f3f2e2b7b6d6949e8e6462523e3Oshfá»Žqdd!kÃ‚gomih!pa; TimevMemberPhone=637669428954884426; vMemberPhone=aa6a3938d8323fcfccc060f3f2e2b7b6d6949e8e6462523e3a; TimevMemberEmail=637669428954884426; vMemberEmail=aa6a3938d8323fcfccc060f3f2e2b7b6d6949e8e6462523e3ussfvqddrkvgzmfhop1d3i1d5bAfhonfbyjimx/rdmpenba"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
