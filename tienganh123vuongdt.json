@@ -1,0 +1,21 @@
+{
+	"request": [],
+	"sendHeader": [
+		{
+			"enable": true,
+			"name": "Tiếng Anh 123",
+			"ruleType": "modifySendHeader",
+			"matchType": "prefix",
+			"pattern": "https://www.tienganh123.com/",
+			"exclude": "",
+			"group": "Tiếng Anh ",
+			"isFunction": false,
+			"action": {
+				"name": "cookie",
+				"value": "php7_ta_123_session_id=79rvlfvpn7qlejcps71kshltn2;;ta123_user_shared=EurbIFJfUXxLRdiQUcL9RQlP%2Fj19c%2B%2B%2Fnq5AlwUMlosKi0GkkyKgQv58SgrzREGebnCWZ5yo452rCnib2dG%2FrUxOXNBxzendwipkESBInGWZuujI4XHvbMaAJRhlj%2BZrnZS6cCNrzDnnHEzK02iQz8%2FmoXOnezpZJGOX1C9aAusdAtLSWjm9UcfSDecABya6AGZGwOApo6vKP%2FiKremovednF4yEsnKgAMqtJrFlkrRXdAzdZg%2BH%2FTitlSpyef9c7%2B4T4rZTOFSsgvA928IUfNSuBQAAAAAA;;ta123_member=3w9ABxnLcmc%3D;;HIM_on_off=0; HIM_method=0; HIM_ckspell=1; HIM_daucu=1; hocphatamgvmy-2=false"
+			}
+		}
+	],
+	"receiveHeader": [],
+	"receiveBody": []
+}
