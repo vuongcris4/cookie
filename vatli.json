@@ -3,12 +3,12 @@
 	"sendHeader": [
 		{
 			"enable": true,
-			"name": "Vật lí",
+			"name": "Vật lí thầy Hà",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
 			"pattern": "https://hocmai.vn/",
 			"exclude": "",
-			"group": "Học mãi",
+			"group": "Vật Lí",
 			"isFunction": false,
 			"action": {
 				"name": "cookie",
@@ -17,12 +17,12 @@
 		},
 		{
 			"enable": true,
-			"name": "Vật lí Biên",
+			"name": "Vật lí thầy Biên",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
 			"pattern": "https://chuvanbien.vn/",
 			"exclude": "",
-			"group": "Học mãi",
+			"group": "Vật Lí",
 			"isFunction": false,
 			"action": {
 				"name": "cookie",

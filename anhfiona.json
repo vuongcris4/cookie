@@ -8,7 +8,7 @@
 			"matchType": "domain",
 			"pattern": "hocmai.vn",
 			"exclude": "",
-			"group": "Học Mãi",
+			"group": "Tiếng Anh",
 			"isFunction": false,
 			"action": {
 				"name": "cookie",
@@ -22,7 +22,7 @@
 			"matchType": "prefix",
 			"pattern": "https://www.tienganh123.com/",
 			"exclude": "",
-			"group": "Học Mãi",
+			"group": "Tiếng Anh",
 			"isFunction": false,
 			"action": {
 				"name": "cookie",
