@@ -2,7 +2,7 @@
 	"request": [],
 	"sendHeader": [
 		{
-			"enable": true,
+			"enable": false,
 			"name": "Vật lí thầy Hà",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
@@ -12,11 +12,11 @@
 			"isFunction": false,
 			"action": {
 				"name": "cookie",
-				"value": "MoodleSession=ln8il4u3rj83poun46d333nlj2; MoodleSessionTest=MRzdLInqpL; _hjSessionUser_239700=eyJpZCI6ImExYmRjMmE0LTcwM2MtNWJmMy04OThjLTFiMGM1YTBhOTMxZiIsImNyZWF0ZWQiOjE2NDIwODMwOTYwNzgsImV4aXN0aW5nIjpmYWxzZX0=; _hjFirstSeen=1; _hjIncludedInPageviewSample=1; _hjSession_239700=eyJpZCI6ImU1ZmE2ZTEzLTQ0ZDctNDk2YS1iZGJhLThiNmVhODY0OWVhZCIsImNyZWF0ZWQiOjE2NDIwODMwOTYxOTcsImluU2FtcGxlIjp0cnVlfQ==; _hjAbsoluteSessionInProgress=0; G_ENABLED_IDPS=google; _fbp=fb.1.1642083098201.1885982689; homeFullname=Tr%E1%BA%A7n+V%C6%B0%C6%A1ng; userchat=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD%253B%25DA%25C1%2560%2528%25AE%25C8%25C1%2598%250D%2589%25DBQ%2584%25ED%253Eb%2587%2516%25FC%25F9z%25AF%25BB%2595%25C2; MOODLEID_=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD; __hmrcid=5505242; rating-modal-undefined-undefined=1; __utma=267732759.585719623.1642083107.1642083107.1642083107.1; __utmc=267732759; __utmz=267732759.1642083107.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __utmb=267732759.1.10.1642083107"
+				"value": "time_join_home_new=1653389735321; MoodleSession=c6k4fa95viit59gvlqdtqnqsh7; MoodleSessionTest=kLVOJYVm11; _gid=GA1.2.876774865.1653389737; _gat=1; _hjFirstSeen=1; _hjSession_239700=eyJpZCI6ImZlNmZkYmE5LWE4ODAtNGUwNi1hNTcyLWRhYTJjNWEyNGFiNiIsImNyZWF0ZWQiOjE2NTMzODk3MzgzNDUsImluU2FtcGxlIjpmYWxzZX0=; _hjAbsoluteSessionInProgress=1; _ga=GA1.1.1195593873.1653389730; G_ENABLED_IDPS=google; _hjSessionUser_239700=eyJpZCI6ImVkNWM1MDUyLTg4OGItNWNlYy1iNTkzLTUwOWM3NWNlMzkyZSIsImNyZWF0ZWQiOjE2NTMzODk3MzgwNTQsImV4aXN0aW5nIjp0cnVlfQ==; _fbp=fb.1.1653389745713.1602306848; __utma=267732759.1195593873.1653389730.1653389746.1653389746.1; __utmc=267732759; __utmz=267732759.1653389746.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __utmb=267732759.1.10.1653389746; __utmli=sso-form; homeFullname=Tr%E1%BA%A7n+V%C6%B0%C6%A1ng; userchat=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD%253B%25DA%25C1%2560%2528%25AE%25C8%25C1%2598%250D%2589%25DBQ%2584%25ED%253Eb%2587%2516%25FC%25F9z%25AF%25BB%2595%25C2; MOODLEID_=%25F5%25D9%2511B%25B4k%25A5%2501%25EE%2540%25F73%25ECZ%25DD; _ga_T5W79TC0RG=GS1.1.1653389730.1.1.1653389754.0; user_hocmai_pupup-qc1-13884=1; user_hocmai_pupup-qc1-12344=1; __hmrcid=5505242"
 			}
 		},
 		{
-			"enable": true,
+			"enable": false,
 			"name": "Vật lí thầy Biên",
 			"ruleType": "modifySendHeader",
 			"matchType": "prefix",
